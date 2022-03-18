@@ -8,7 +8,7 @@
 </div>
 
 <div>
-    <p>src : <a href="https://santrikoding.com">santrikoding.com<a>/</p>
+    <p>src belajar: <a href="https://santrikoding.com">santrikoding.com<a></p>
 <p>composer install /composer update</p>
 <p>cp .env.example .<p>nv</p>
 <p>php artisan key:generate</p>
