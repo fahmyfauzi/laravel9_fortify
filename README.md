@@ -8,9 +8,10 @@
 </div>
 
 <div>
-composer install /composer update
-cp .env.example .env
-php artisan key:generate
-php artisan migrate --seed
-php artisan serve
+    <p>src : <a href="https://santrikoding.com">santrikoding.com<a>/</p>
+<p>composer install /composer update</p>
+<p>cp .env.example .<p>nv</p>
+<p>php artisan key:generate</p>
+<p>php artisan migrate --seed</p>
+<p>php artisan serve</p>
 </div>
